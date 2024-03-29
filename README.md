@@ -1,2 +1,4 @@
 # ishikasingh
-This is my first GitHub repository:
+Hello Everyone:
+</br>
+Author- Ishika Singh
